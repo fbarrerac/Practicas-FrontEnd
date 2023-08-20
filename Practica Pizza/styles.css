@@ -1,0 +1,57 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #222222;
+    padding-top: 10px;
+}
+
+.pizza-color{
+    color: #39B24A;
+}
+
+.i-color{
+    color: #FFFFFF;
+}
+
+.font-color{
+    color: #FC200C;
+}
+
+.list{
+    color: white;
+    position: absolute;
+    right: 20px;
+    display: inline-block;
+    
+}
+
+.display-inline-block, .list{
+    display: inline-block;
+}
+
+h1{
+    position: relative;
+    bottom: 30px;
+}
+
+.anuncio{
+    background-image: url('./img/anuncio.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 2%;
+    display: inline-block;
+    padding: 30px;
+    margin: 30px;
+    height: 400px;
+    width: 560px;
+}
+
+.podio{
+    display: inline-block;
+    position: absolute;
+
+}

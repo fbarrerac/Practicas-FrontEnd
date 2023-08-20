@@ -1,0 +1,52 @@
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+#batman {
+    width: 140px;
+}
+
+#titulo {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #C4C4C4;
+    text-align: center;
+    color: #005677;
+    letter-spacing: 1rem;
+    padding: 6px;
+}
+
+.espaciado {
+    color: black;
+    display: block;
+    height: 100px;
+    width: 300px;;
+}
+
+.subtitulo {
+    color: #005677;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    padding: 3px;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.listaEspecial {
+    list-style-type: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    
+}
